@@ -63,6 +63,7 @@ body, html {
     height: 375px;
     border-radius: 15px;
     background: #fff url('images/bg-pattern-card.svg') no-repeat;
+    box-shadow: 1px 1px 10px var(--dark-blue);
     
     display: flex;
     flex-direction: column;
@@ -80,6 +81,8 @@ body, html {
     max-width: 100%;
     border-radius: 50%;
     border: 5px solid #fff;
+    width: 96px;
+    height: 96px;
 }
 
 .name-profile {
