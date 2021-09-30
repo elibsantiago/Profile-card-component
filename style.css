@@ -138,3 +138,14 @@ body, html {
     font-weight: 300;
     letter-spacing: 2px;
 }
+
+.attribution {
+    position: relative;
+    z-index: 12;
+    bottom: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 14px;
+}
