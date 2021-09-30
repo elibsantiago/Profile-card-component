@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component
 
-![image](https://user-images.githubusercontent.com/89936442/135501093-aa57f4d3-f77f-4ed4-b409-2b750719c25a.png)
+![image](https://user-images.githubusercontent.com/89936442/135516679-630faa2e-f71b-46a8-b788-09ed98ccf171.png)
 
 ## Welcome! 👋
 
